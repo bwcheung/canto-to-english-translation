@@ -1,5 +1,5 @@
 # canto-to-english-translation
-A personal project using a raspberry pi 5 and local LLMs to translate spoken Cantonese into English audio. The goal of the project was to learn how to use local LLMs and playing around with the raspberry pi 5.
+A personal project using a raspberry pi 5 and local LLMs to translate spoken Cantonese into English audio. The goal of the project was to learn how to use local LLMs and play around with the raspberry pi 5.
 
 Translation flow:
 
